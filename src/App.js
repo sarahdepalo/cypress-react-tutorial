@@ -77,7 +77,7 @@ class App extends Component {
               !this.state.list.length
               ? (
                 <div className="no-task">
-                  No task!
+                  All of your tasks are complete. Nicely done!
                 </div>
               ) : (
                 <ul>
